@@ -26,7 +26,6 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Dat
 ## Usage
 
 - [ ]  **Clone the repository or download the source code.**
-- [ ] **Implement daily notifications to prompt users to fill in their data**
 - [ ] Make sure the data.csv file is in the same directory as the Python script.
 - [ ] Run the Python script data.py.
 
