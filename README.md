@@ -72,7 +72,7 @@ Additionally, a bar plot will be displayed, showing the accuracy scores of the d
 ## 2
 ![collage](https://github.com/Codingnoob001/Bigdata/assets/106920964/55324643-1199-43f1-9272-b44050dabd4f)
 
-## Result: Accuracy: 98.24%
+## Result Accuracy: 98.24%
 ![collage (1)](https://github.com/Codingnoob001/Bigdata/assets/106920964/5a70d27e-0f85-45c8-a128-764382349f99)
 
 
